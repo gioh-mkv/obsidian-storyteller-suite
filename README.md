@@ -2,6 +2,8 @@
 
 A comprehensive suite for managing storytelling elements including characters, locations, events, and more.
 
+in brazilian portuguese.
+
 ## Features
 
 - **Character Management**: Create and manage detailed character profiles with descriptions, backstories, relationships, custom fields, tags, and profile images
